@@ -225,3 +225,30 @@ temp_uploads/
 *.pkl
 *.joblib
 *.csv
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models
+models/
+*.pkl
+*.joblib
+
+# Dataset
+data/
+*.csv
+
+# Temporary uploads
+temp_uploads/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
