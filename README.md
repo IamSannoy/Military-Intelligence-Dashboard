@@ -1,4 +1,4 @@
-# 🛡️ AI-Based Military Intelligence Dashboard
+# AI-Based Military Intelligence Dashboard
 
 An interactive AI-powered military intelligence dashboard built with **Streamlit**, **Machine Learning**, and the **Global Terrorism Database (GTD)**. The application enables users to explore global terrorism incidents, analyze trends, predict attack types, forecast future incidents, and generate intelligence reports through a modern analytical interface.
 
